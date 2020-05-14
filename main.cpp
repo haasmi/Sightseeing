@@ -9,4 +9,6 @@ int main() {
 	Sightseeing* Eiffelturm = new Sightseeing("Eiffelturm", 12, 12, "bunte Lichter");
 	Toilet* Schule = new Toilet("Schulklo", 17, 3, "ekelig");
 	Schule->visit();
+	Eiffelturm->visit();
+	Zuhause->visit();
 }
