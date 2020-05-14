@@ -9,7 +9,7 @@ public:
 	Sightseeing(std::string name, int x, int y, std::string special);
 	~Sightseeing();
 	void visit() override;
-
+	//Hallo qpiwekjrfnwäeörkvn 
 protected: 
 	std::string s_special;
 };
